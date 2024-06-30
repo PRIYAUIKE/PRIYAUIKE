@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priya Uike</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align ="right" alt="image" width="400" src=![image](https://github.com/PRIYAUIKE/PRIYAUIKE/assets/161868946/0d4af885-e875-4a42-8de6-fb1485295f56)>
+<img align ="right" alt="image" width="400" src= "![image](https://github.com/PRIYAUIKE/PRIYAUIKE/assets/161868946/12ec2045-84e4-425a-a77e-ed3e07c107de)
+">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyauike&label=Profile%20views&color=0e75b6&style=flat" alt="priyauike" /> </p>
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
