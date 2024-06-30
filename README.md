@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Uike</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align ="right" alt="image" width="400" src= "![image](https://github.com/PRIYAUIKE/PRIYAUIKE/assets/161868946/12ec2045-84e4-425a-a77e-ed3e07c107de)
-">
 
-
+<img align ="right" alt="image" width="400" src= "https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b9525i096mpsmu8xbdf429ya1qhpf0c58i4vu0ddc1a6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
@@ -21,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyauike&show_icons=true&locale=en" alt="priyauike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyauike&" alt="priyauike" /></p>
+
